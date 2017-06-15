@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "0bacb0a187c5ebce963e019626784144"
+build_time: [1497542022, 632911000]
+inputs:
+  "/Users/sriraghu95/Desktop/iOS-CoreML-Inceptionv3/iOS-CoreML-Inceptionv3/ViewController.swift": !dirty [1497542019, 0]
+  "/Users/sriraghu95/Desktop/iOS-CoreML-Inceptionv3/iOS-CoreML-Inceptionv3/AppDelegate.swift": !dirty [1497536593, 0]
+  "/Users/sriraghu95/Desktop/iOS-CoreML-Inceptionv3/iOS-CoreML-Inceptionv3/PreviewView.swift": !dirty [1497536742, 0]
+  "/Users/sriraghu95/Desktop/iOS-CoreML-Inceptionv3/build/iOS-CoreML-Inceptionv3.build/Debug-iphoneos/iOS-CoreML-Inceptionv3.build/DerivedSources/CoreMLGenerated/Inceptionv3/Inceptionv3.swift": !dirty [1497540239, 0]

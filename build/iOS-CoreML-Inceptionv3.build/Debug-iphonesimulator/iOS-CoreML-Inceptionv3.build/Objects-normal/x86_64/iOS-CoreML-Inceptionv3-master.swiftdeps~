@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.43 clang-900.0.22.8)"
+options: "a014a5281687402bdc742c33cb8fe14d"
+build_time: [1497539461, 914850000]
+inputs:
+  "/Users/sriraghu95/Desktop/iOS-CoreML-Inceptionv3/iOS-CoreML-Inceptionv3/ViewController.swift": [1497539460, 0]
+  "/Users/sriraghu95/Desktop/iOS-CoreML-Inceptionv3/iOS-CoreML-Inceptionv3/AppDelegate.swift": [1497536593, 0]
+  "/Users/sriraghu95/Desktop/iOS-CoreML-Inceptionv3/iOS-CoreML-Inceptionv3/PreviewView.swift": [1497536742, 0]
