@@ -19,3 +19,10 @@ If you are interested in building this app from scratch, a **step-by-step tutori
 
 ## Results
 
+These are the results of the app when tested on iPhone 7. 
+
+<img src="https://github.com/r4ghu/iOS-CoreML-Inceptionv3/blob/master/Screenshots/IMG_0013.jpg" alt="Result 1" width="280"> <img src="https://github.com/r4ghu/iOS-CoreML-Inceptionv3/blob/master/Screenshots/IMG_0014.jpg" alt="Result 1" width="280"> <img src="https://github.com/r4ghu/iOS-CoreML-Inceptionv3/blob/master/Screenshots/IMG_0015.jpg" alt="Result 1" width="280">
+
+## Author
+
+Sri Raghu Malireddi / [@r4ghu](https://sriraghu.com)
