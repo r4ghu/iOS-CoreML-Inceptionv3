@@ -15,7 +15,7 @@ To use this app, open **iOS-CoreML-Inceptionv3.xcodeproj** in Xcode 9 and run it
 
 ## Tutorial
 
-If you are interested in building this app from scratch, a step-by-step tutorial is available at - [Link](https://sriraghu.com/2017/06/15/computer-vision-in-ios-object-recognition/)
+If you are interested in building this app from scratch, a **step-by-step tutorial** is available at - [**Link**](https://sriraghu.com/2017/06/15/computer-vision-in-ios-object-recognition/)
 
 ## Results
 
