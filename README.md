@@ -2,7 +2,7 @@
 
 This is the implementation of Object Recognition using Inception-v3 model on Apple's CoreML Framework.
 
-The app fetches frames from your camera at ~30 FPS and perform object detection in real-time.
+The app fetches frames from your camera at ~30 FPS and perform object recognition in almost real-time.
 
 ## Requirements
 
