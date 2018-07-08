@@ -16,6 +16,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        // Extend the launch screen time 1 second(s) more than default
+        RunLoop.current.run(until: Date(timeIntervalSinceNow: 1))
         return true
     }
 
